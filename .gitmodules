@@ -1,0 +1,3 @@
+[submodule "paper-Implementation/MolRL-MGPT"]
+	path = paper-Implementation/MolRL-MGPT
+	url = git@github.com:HXYfighter/MolRL-MGPT.git

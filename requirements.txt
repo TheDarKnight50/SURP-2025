@@ -1,0 +1,11 @@
+numpy==1.26.4
+rdkit-pypi==2022.9.5
+tensorflow==2.14.0
+tensorflow-estimator==2.14.0
+tensorflow-io-gcs-filesystem
+torch==2.2.0
+torchvision
+pybind11>=2.12
+gym
+openai
+pandas
