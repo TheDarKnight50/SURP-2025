@@ -1,11 +1,26 @@
 numpy==1.26.4
+pandas==2.1.4
+tqdm>=4.65.0
+seaborn>=0.12.2
+scikit-learn>=1.3.1
+rapidfuzz>=3.6.1
 rdkit-pypi==2022.9.5
+
+# Deep learning frameworks
 tensorflow==2.14.0
 tensorflow-estimator==2.14.0
-tensorflow-io-gcs-filesystem
+tensorflow-io-gcs-filesystem==0.34.0
 torch==2.2.0
-torchvision
+torchvision>=0.15.2
+
+# C++ bindings for any custom code
 pybind11>=2.12
-gym
-openai
-pandas
+
+# Simulation environments
+gym>=0.26.0
+
+# OpenAI client
+openai>=0.27.0
+
+# Therapeutics Data Commons
+tdc==0.1
